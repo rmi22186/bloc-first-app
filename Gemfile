@@ -3,6 +3,7 @@ ruby '2.0.0'
 
 gem 'rails', '3.2.13'
 gem 'rails_12factor'
+gem 'newrelic_rpm'
 
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
